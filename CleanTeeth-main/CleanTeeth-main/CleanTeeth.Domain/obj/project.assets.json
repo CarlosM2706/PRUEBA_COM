@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
+      "projectUniqueName": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
       "projectName": "CleanTeeth.Domain",
-      "projectPath": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
+      "projectPath": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
       "packagesPath": "C:\\Users\\MSI KATANA\\.nuget\\packages\\",
-      "outputPath": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\obj\\",
+      "outputPath": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

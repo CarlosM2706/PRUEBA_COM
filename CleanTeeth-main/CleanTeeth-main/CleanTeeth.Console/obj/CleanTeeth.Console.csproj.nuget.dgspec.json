@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\CleanTeeth.Console.csproj": {}
+    "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\CleanTeeth.Console.csproj": {}
   },
   "projects": {
-    "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\CleanTeeth.Console.csproj": {
+    "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\CleanTeeth.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\CleanTeeth.Console.csproj",
+        "projectUniqueName": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\CleanTeeth.Console.csproj",
         "projectName": "CleanTeeth.Console",
-        "projectPath": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\CleanTeeth.Console.csproj",
+        "projectPath": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\CleanTeeth.Console.csproj",
         "packagesPath": "C:\\Users\\MSI KATANA\\.nuget\\packages\\",
-        "outputPath": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\obj\\",
+        "outputPath": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj": {
-                "projectPath": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj"
+              "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj": {
+                "projectPath": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj"
               }
             }
           }
@@ -347,14 +347,14 @@
         }
       }
     },
-    "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj": {
+    "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
+        "projectUniqueName": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
         "projectName": "CleanTeeth.Domain",
-        "projectPath": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
+        "projectPath": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
         "packagesPath": "C:\\Users\\MSI KATANA\\.nuget\\packages\\",
-        "outputPath": "D:\\web\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\obj\\",
+        "outputPath": "D:\\WEB - P\\CleanTeeth-main\\CleanTeeth-main\\CleanTeeth.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

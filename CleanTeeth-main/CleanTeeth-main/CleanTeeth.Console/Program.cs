@@ -13,10 +13,12 @@ internal class Program
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.WriteLine("╔════════════════════════════════════════════════╗");
-            Console.WriteLine("║  PRINCIPIOS SOLID                              ║");
-            Console.WriteLine("║  Sistema CleanTeeth  - ENTREGAR                ║");
+            Console.WriteLine("║               PRINCIPIOS SOLID                 ║");
+            Console.WriteLine("║        Sistema CleanTeeth  - ENTREGAR          ║");
             Console.WriteLine("╚════════════════════════════════════════════════╝\n");
+        
 
+            /// sss
             // 1. Crear oficina
             var address = Address.Create("Av. Principal", "Quito", "17001");
 
