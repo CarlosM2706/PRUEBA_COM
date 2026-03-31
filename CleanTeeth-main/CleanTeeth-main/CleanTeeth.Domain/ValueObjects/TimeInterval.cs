@@ -1,0 +1,22 @@
+﻿using CleanTeeth.Domain.Exceptions;
+
+namespace CleanTeeth.Domain.ValueObjects;
+
+public sealed class TimeInterval
+{
+    public DateTime Start { get; }
+    public DateTime End { get; }
+
+    public double DurationInMinutes => (End - Start).TotalMinutes;
+
+    public TimeInterval(DateTime start, DateTime end)
+    {
+        if (start > end)
+        {
+            throw new BusinessRuleException($"La  fecha de inicio debe ser anterior a la fecha de fin");
+        }
+
+        Start = start; 
+        End = end;
+    }
+}

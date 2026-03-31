@@ -1,0 +1,23 @@
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\web\CleanTeeth-main\CleanTeeth-main\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
